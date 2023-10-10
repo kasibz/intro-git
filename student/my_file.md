@@ -1,12 +1,12 @@
 # About Me
-My name is: Dhruv.
+My name is: Kasib.
 
 ## Food
-My favorite food is: Pad Thai.
+My favorite food is: Pizza.
 
 ## 
-My hobbies are: PC games, swimming, basketball.
+My hobbies are: VR Games and Running.
 
 ##
-My favorite artist/band is: Nirvana.
+My favorite artist/band is: The Roots.
 
